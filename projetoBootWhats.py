@@ -12,5 +12,5 @@ for telefone in telefones:
     sleep(5)
     pyautogui.typewrite('Gostaria de participar do nosso evento?(digite sim, se gostaria de participar.')
     sleep(5)
-    pyautogui.press('enter')
+    pyautogui.press('enter.')
     sleep(300)
